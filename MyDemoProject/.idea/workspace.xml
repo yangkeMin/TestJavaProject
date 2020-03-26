@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba9a1dcc-722d-4248-8183-e228fc57870d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZTeD8DFKoQCbrPTlkVnOBmLFni" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.ThreadTickt">
+    <configuration name="CallableReturnParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.CallableReturnParam" />
+      <module name="MyDemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jvm.GCTest" />
+      <module name="MyDemoProject" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGCDetails" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.MyThread1" />
+      <module name="MyDemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThread3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.MyThread3" />
+      <module name="MyDemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadToParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.MyThreadToParam" />
+      <module name="MyDemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTickt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.ThreadTickt" />
+      <module name="MyDemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadTickt" />
+        <item itemvalue="Application.CallableReturnParam" />
+        <item itemvalue="Application.MyThread3" />
+        <item itemvalue="Application.MyThreadToParam" />
+        <item itemvalue="Application.MyThread1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba9a1dcc-722d-4248-8183-e228fc57870d" name="Default Changelist" comment="" />
+      <created>1584867388227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584867388227</updated>
+      <workItem from="1584867397116" duration="10338000" />
+      <workItem from="1585016444012" duration="46000" />
+      <workItem from="1585016528090" duration="60000" />
+      <workItem from="1585059517740" duration="5433000" />
+      <workItem from="1585099059996" duration="135000" />
+      <workItem from="1585141690866" duration="6119000" />
+      <workItem from="1585185945964" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="8" key="#GCTest" timestamp="1584867825885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="420" y="8" key="#GCTest/0.0.1536.824@0.0.1536.824" timestamp="1584867825885" />
+    <state x="498" y="47" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584867818013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="47" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1584867818013" />
+    <state x="529" y="20" key="#com.intellij.ide.util.MemberChooser" timestamp="1585142052032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="529" y="20" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585142052032" />
+    <state x="498" y="46" key="FileChooserDialogImpl" timestamp="1585099156384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="46" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585099156384" />
+    <state width="1466" height="318" key="GridCell.Tab.0.bottom" timestamp="1585153471334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1466" height="318" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585153471334" />
+    <state width="1466" height="318" key="GridCell.Tab.0.center" timestamp="1585153471333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1466" height="318" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585153471333" />
+    <state width="1466" height="318" key="GridCell.Tab.0.left" timestamp="1585153471333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1466" height="318" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585153471333" />
+    <state width="1466" height="318" key="GridCell.Tab.0.right" timestamp="1585153471334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1466" height="318" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585153471334" />
+    <state width="1466" height="243" key="GridCell.Tab.1.bottom" timestamp="1585066871008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1466" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585066871008" />
+    <state width="1466" height="243" key="GridCell.Tab.1.center" timestamp="1585066871008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1466" height="243" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585066871008" />
+    <state width="1466" height="243" key="GridCell.Tab.1.left" timestamp="1585066871008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1466" height="243" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585066871008" />
+    <state width="1466" height="243" key="GridCell.Tab.1.right" timestamp="1585066871008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1466" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585066871008" />
+    <state x="346" y="42" key="NewModule_or_Project.wizard" timestamp="1585099182367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="346" y="42" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1585099182367" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1585099090853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1585099090853" />
+    <state x="380" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1585185966677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="380" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585185966677" />
+    <state x="0" y="0" width="781" height="824" key="find.popup" timestamp="1585060638972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="781" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1585060638972" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1585063205363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585063205363" />
+  </component>
+</project>
